@@ -1,10 +1,6 @@
 package com.narxoz.rpg.engine;
 
-/**
- * Holds the outcome of a completed dungeon encounter.
- */
 public class EncounterResult {
-
     private final boolean heroesWon;
     private final int roundsPlayed;
     private final int survivingHeroes;
